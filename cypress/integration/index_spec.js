@@ -1,4 +1,4 @@
-describe("my first test", () => {
+describe("index.html", () => {
   it('finds the content "type"', () => {
     cy.visit("index.html");
     cy.get("h1").contains("Welcome to home page");
