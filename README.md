@@ -5,3 +5,7 @@
 - run ``yarn install``
 - run ``yarn cypress:open`` to open cypress test runner
 
+
+
+## Author
+[gratien](https://github.com/itsgratien)
